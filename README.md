@@ -1,4 +1,4 @@
-# Video Label Detection Tool
+# Video Object/Label Detection Tool
 
 This tool utilizes the Google Cloud Video Intelligence API to detect labels (descriptions of objects and activities) in a video file. The detected labels and their corresponding confidence scores are saved in a JSON file for further analysis.
 
