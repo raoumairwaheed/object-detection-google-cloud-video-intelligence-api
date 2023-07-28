@@ -38,10 +38,6 @@ analyze_labels_file(filename, output)
 
 Please ensure that you have properly set up the Google Cloud Service Account key file and enabled the necessary APIs in your Google Cloud Console before running the tool.
 
-```bash
-python detect_labels.py
-```
-
 The tool will process the video (`sample_video.mp4`) and generate a JSON file (`objectdetection.json`) containing the detected labels and their confidence scores.
 
 Please ensure that you have properly set up the Google Cloud Service Account key file and enabled the necessary APIs in your Google Cloud Console before running the tool.
